@@ -58,10 +58,8 @@ const aboutMe = {
 ```
 # My achivements
 <p align="left">
-   <a href="https://github.com/sekireiberry08">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sekireiberry08&theme=buefy&show_icons=true" />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sekireiberry08&theme=buefy&layout=compact" />
-   </a>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sekireiberry08&show_icons=true&theme=buefy&hide_border=true&count_private=true" />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=sekireiberry08&theme=buefy&hide_border=true" />
 </p>
 
 # How to connect with me
